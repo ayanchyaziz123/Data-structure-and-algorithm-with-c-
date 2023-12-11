@@ -78,7 +78,7 @@ Description: Various sorting algorithms implemented in C++.
 
 ### 2. Searching
 
-- [Binary Search](searching/binarySearch.cpp)
+- [Binary Search](binary_search/binary_search.cpp)
 - [Linear Search](searching/linearSearch.cpp)
 
 Description: Binary search and linear search algorithms.
