@@ -1,7 +1,7 @@
 # C++ Data Structures and Algorithms
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/cpp-data-structures-algorithms)
-![GitHub license](https://img.shields.io/github/license/yourusername/cpp-data-structures-algorithms)
+![GitHub last commit](https://img.shields.io/github/last-commit/ayanchyaziz123/cpp-data-structures-algorithms)
+![GitHub license](https://img.shields.io/github/license/ayanchyaziz123/cpp-data-structures-algorithms)
 
 ## Overview
 
